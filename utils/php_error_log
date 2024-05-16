@@ -1,0 +1,123 @@
+[16-May-2024 05:48:00 Europe/Berlin] PHP Warning:  Undefined array key 0 in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 33
+[16-May-2024 05:48:00 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type int in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 36
+[16-May-2024 05:48:00 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 36
+[16-May-2024 05:48:00 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type int in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 38
+[16-May-2024 05:48:00 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 38
+[16-May-2024 05:48:00 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php:36
+Stack trace:
+#0 F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php(43): UsersServices->orderArray(Array)
+#1 F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php(25): UsersServices->orderArray(Array)
+#2 F:\xampp\htdocs\basic_crud_php_api\controller\UserController.php(9): UsersServices->getAllUsers()
+#3 F:\xampp\htdocs\basic_crud_php_api\routes\Routes.php(15): UserController->getAllUsers()
+#4 F:\xampp\htdocs\basic_crud_php_api\index.php(13): Routes->initRoutes()
+#5 F:\xampp\htdocs\basic_crud_php_api\index.php(18): Index->main()
+#6 {main}
+  thrown in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 36
+[16-May-2024 05:51:39 Europe/Berlin] PHP Warning:  Undefined array key 0 in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 33
+[16-May-2024 05:51:39 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type int in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 36
+[16-May-2024 05:51:39 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 36
+[16-May-2024 05:51:39 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type int in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 38
+[16-May-2024 05:51:39 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 38
+[16-May-2024 05:51:39 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php:36
+Stack trace:
+#0 F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php(43): UsersServices->orderArray(Array)
+#1 F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php(25): UsersServices->orderArray(Array)
+#2 F:\xampp\htdocs\basic_crud_php_api\controller\UserController.php(9): UsersServices->getAllUsers()
+#3 F:\xampp\htdocs\basic_crud_php_api\routes\Routes.php(15): UserController->getAllUsers()
+#4 F:\xampp\htdocs\basic_crud_php_api\index.php(13): Routes->initRoutes()
+#5 F:\xampp\htdocs\basic_crud_php_api\index.php(18): Index->main()
+#6 {main}
+  thrown in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 36
+[16-May-2024 05:51:53 Europe/Berlin] PHP Warning:  Undefined array key 0 in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 34
+[16-May-2024 05:51:53 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type int in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 37
+[16-May-2024 05:51:53 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 37
+[16-May-2024 05:51:53 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type int in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 39
+[16-May-2024 05:51:53 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 39
+[16-May-2024 05:51:53 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php:37
+Stack trace:
+#0 F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php(44): UsersServices->orderArray(Array)
+#1 F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php(25): UsersServices->orderArray(Array)
+#2 F:\xampp\htdocs\basic_crud_php_api\controller\UserController.php(9): UsersServices->getAllUsers()
+#3 F:\xampp\htdocs\basic_crud_php_api\routes\Routes.php(15): UserController->getAllUsers()
+#4 F:\xampp\htdocs\basic_crud_php_api\index.php(13): Routes->initRoutes()
+#5 F:\xampp\htdocs\basic_crud_php_api\index.php(18): Index->main()
+#6 {main}
+  thrown in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 37
+[16-May-2024 05:52:54 Europe/Berlin] PHP Warning:  Undefined array key 0 in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 33
+[16-May-2024 05:52:54 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type int in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 36
+[16-May-2024 05:52:54 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 36
+[16-May-2024 05:52:54 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type int in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 38
+[16-May-2024 05:52:54 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 38
+[16-May-2024 05:52:54 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php:36
+Stack trace:
+#0 F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php(43): UsersServices->orderArray(Array)
+#1 F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php(25): UsersServices->orderArray(Array)
+#2 F:\xampp\htdocs\basic_crud_php_api\controller\UserController.php(9): UsersServices->getAllUsers()
+#3 F:\xampp\htdocs\basic_crud_php_api\routes\Routes.php(15): UserController->getAllUsers()
+#4 F:\xampp\htdocs\basic_crud_php_api\index.php(13): Routes->initRoutes()
+#5 F:\xampp\htdocs\basic_crud_php_api\index.php(18): Index->main()
+#6 {main}
+  thrown in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 36
+[16-May-2024 05:53:25 Europe/Berlin] PHP Warning:  Undefined array key 0 in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 33
+[16-May-2024 05:53:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type int in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 36
+[16-May-2024 05:53:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 36
+[16-May-2024 05:53:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type int in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 38
+[16-May-2024 05:53:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 38
+[16-May-2024 05:53:25 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php:36
+Stack trace:
+#0 F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php(43): UsersServices->orderArray(Array)
+#1 F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php(25): UsersServices->orderArray(Array)
+#2 F:\xampp\htdocs\basic_crud_php_api\controller\UserController.php(9): UsersServices->getAllUsers()
+#3 F:\xampp\htdocs\basic_crud_php_api\routes\Routes.php(15): UserController->getAllUsers()
+#4 F:\xampp\htdocs\basic_crud_php_api\index.php(13): Routes->initRoutes()
+#5 F:\xampp\htdocs\basic_crud_php_api\index.php(18): Index->main()
+#6 {main}
+  thrown in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 36
+[16-May-2024 05:54:32 Europe/Berlin] PHP Warning:  Undefined array key 0 in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 33
+[16-May-2024 05:54:32 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type int in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 36
+[16-May-2024 05:54:32 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 36
+[16-May-2024 05:54:32 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type int in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 38
+[16-May-2024 05:54:32 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 38
+[16-May-2024 05:54:32 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php:36
+Stack trace:
+#0 F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php(43): UsersServices->orderArray(Array)
+#1 F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php(25): UsersServices->orderArray(Array)
+#2 F:\xampp\htdocs\basic_crud_php_api\controller\UserController.php(9): UsersServices->getAllUsers()
+#3 F:\xampp\htdocs\basic_crud_php_api\routes\Routes.php(15): UserController->getAllUsers()
+#4 F:\xampp\htdocs\basic_crud_php_api\index.php(13): Routes->initRoutes()
+#5 F:\xampp\htdocs\basic_crud_php_api\index.php(18): Index->main()
+#6 {main}
+  thrown in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 36
+[16-May-2024 06:18:39 Europe/Berlin] PHP Warning:  Undefined array key "residents" in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 33
+[16-May-2024 06:18:39 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: UsersServices::getAllUsers(): Return value must be of type array, null returned in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php:33
+Stack trace:
+#0 F:\xampp\htdocs\basic_crud_php_api\controller\UserController.php(9): UsersServices->getAllUsers()
+#1 F:\xampp\htdocs\basic_crud_php_api\routes\Routes.php(15): UserController->getAllUsers()
+#2 F:\xampp\htdocs\basic_crud_php_api\index.php(13): Routes->initRoutes()
+#3 F:\xampp\htdocs\basic_crud_php_api\index.php(18): Index->main()
+#4 {main}
+  thrown in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 33
+[16-May-2024 06:20:16 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: UsersServices::getAllUsers(): Return value must be of type array, int returned in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php:33
+Stack trace:
+#0 F:\xampp\htdocs\basic_crud_php_api\controller\UserController.php(9): UsersServices->getAllUsers()
+#1 F:\xampp\htdocs\basic_crud_php_api\routes\Routes.php(15): UserController->getAllUsers()
+#2 F:\xampp\htdocs\basic_crud_php_api\index.php(13): Routes->initRoutes()
+#3 F:\xampp\htdocs\basic_crud_php_api\index.php(18): Index->main()
+#4 {main}
+  thrown in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 33
+[16-May-2024 06:20:26 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php:33
+Stack trace:
+#0 F:\xampp\htdocs\basic_crud_php_api\controller\UserController.php(9): UsersServices->getAllUsers()
+#1 F:\xampp\htdocs\basic_crud_php_api\routes\Routes.php(15): UserController->getAllUsers()
+#2 F:\xampp\htdocs\basic_crud_php_api\index.php(13): Routes->initRoutes()
+#3 F:\xampp\htdocs\basic_crud_php_api\index.php(18): Index->main()
+#4 {main}
+  thrown in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 33
+[16-May-2024 06:21:01 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: UsersServices::getAllUsers(): Return value must be of type array, int returned in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php:33
+Stack trace:
+#0 F:\xampp\htdocs\basic_crud_php_api\controller\UserController.php(9): UsersServices->getAllUsers()
+#1 F:\xampp\htdocs\basic_crud_php_api\routes\Routes.php(15): UserController->getAllUsers()
+#2 F:\xampp\htdocs\basic_crud_php_api\index.php(13): Routes->initRoutes()
+#3 F:\xampp\htdocs\basic_crud_php_api\index.php(18): Index->main()
+#4 {main}
+  thrown in F:\xampp\htdocs\basic_crud_php_api\services\UsersServices.php on line 33
